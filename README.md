@@ -4,7 +4,7 @@ vipers programming laungauge IDE for web development
 
 # Downloading / using
 ## using on browser:
-go to [LViperScript web ide](itzzsteven.is-a.dev/viper-ide)
+go to [ViperScript web ide](https://itzzsteven.is-a.dev/viper-ide)
 use it.
 
 ## downloading:
