@@ -10,7 +10,6 @@ use it.
 ## downloading:
 go to [Latest Release](https://github.com/ItzzSteven/ViperScript-IDE/releases/latest)
 download the zip then right click file then extract and when done extracting open folder and run viperscript.
-\ 
 ```diff
 - warning:
 ViperScript IDE does not save progress please export and import to save progress
