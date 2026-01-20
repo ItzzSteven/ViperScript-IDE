@@ -1,6 +1,6 @@
 # ViperScript IDE
 vipers programming laungauge IDE for web development
-for example: micropython
+,for example: micropython
 
 ```diff
 - warning:
