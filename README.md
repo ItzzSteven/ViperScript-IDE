@@ -11,7 +11,7 @@ use it.
 go to [Latest Release](https://github.com/ItzzSteven/ViperScript-IDE/releases/latest)
 download the zip then right click file then extract and when done extracting open folder and run viperscript.
 
-
+Text&nbsp;&nbsp;&nbsp;with&ensp;extra&emsp;spaces.
 
 ```diff
 - warning:
